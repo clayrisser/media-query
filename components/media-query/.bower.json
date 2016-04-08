@@ -1,0 +1,43 @@
+{
+  "name": "media-query",
+  "authors": [
+    "JamRizzi <contact@jamrizzi.com>"
+  ],
+  "description": "An element that makes using iron-media-query easier.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "iron",
+    "media",
+    "query",
+    "css",
+    "template",
+    "mobile",
+    "compatible"
+  ],
+  "main": "media-query.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/jamrizzi/media-query/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "iron-media-query": "PolymerElements/iron-media-query#^1.0.8"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^4.0.0"
+  },
+  "_release": "58377238cb",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "58377238cbe47c4f8afa26226527166a45247232"
+  },
+  "_source": "git://github.com/jamrizzi/media-query.git",
+  "_target": "master",
+  "_originalSource": "jamrizzi/media-query",
+  "_direct": true
+}
